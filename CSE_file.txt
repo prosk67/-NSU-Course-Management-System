@@ -1,0 +1,11 @@
+------------------------------- CSE COURSES ----------------------------------
+CSE115 - 4       CSE499 - 3       CSE411 - 3       CSE493 - 3       CSE467 - 3
+CSE173 - 3	 CSE401 - 3       CSE427 - 3       CSE433 - 3       CSE470 - 3
+CSE215 - 4	 CSE417 - 3       CSE428 - 3       CSE435 - 3       CSE419 - 3
+CSE225 - 3       CSE332 - 3       CSE429 - 3       CSE413 - 3       CSE446 - 3
+CSE231 - 3	 CSE425 - 3       CSE492 - 3       CSE414 - 3       CSE447 - 3
+CSE311 - 3	 CSE299 - 1       CSE422 - 3       CSE415 - 3       CSE448 - 3
+CSE323 - 3	 CSE418 - 3       CSE438 - 3       CSE494 - 3       CSE449 - 3
+CSE327 - 3	 CSE426 - 3	  CSE482 - 3       CSE440 - 3       CSE442 - 3
+CSE331 - 3	 CSE473 - 3       CSE485 - 3       CSE445 - 3       CSE496 - 3
+CSE373 - 3	 CSE491 - 3	  CSE486 - 3       CSE465 - 3                

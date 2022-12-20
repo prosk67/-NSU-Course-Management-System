@@ -1,0 +1,9 @@
+-------------------------------- EEE COURSES ---------------------------------
+EEE111 - 4       EEE254	- 3       EEE337 - 3       EEE423 - 3       EEE453 - 3
+EEE132 - 3 	 EEE280 - 3       EEE342 - 3       EEE424 - 3       EEE471 - 3
+EEE141 - 4	 EEE311 - 3       EEE361 - 3       EEE425 - 3       EEE493 - 3
+EEE154 - 1       EEE312 - 3       EEE362 - 3       EEE426 - 3       EEE494 - 3
+EEE211 - 3	 EEE313 - 3       EEE363 - 3       EEE427 - 3       EEE499 - 3
+EEE221 - 3	 EEE321 - 3       EEE400 - 3       EEE428 - 3       
+EEE223 - 3	 EEE331 - 3       EEE421 - 3       EEE451 - 3       
+EEE241 - 3	 EEE332 - 3	  EEE422 - 3       EEE452 - 3       
