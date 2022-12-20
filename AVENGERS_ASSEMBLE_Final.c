@@ -5,7 +5,6 @@
 #include <conio.h>
 #include <ctype.h>
 #include<windows.h>
-
 void start_page();
 void origin();
 void student_info();
