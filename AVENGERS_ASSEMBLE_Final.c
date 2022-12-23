@@ -24,7 +24,7 @@ struct std_info
 };
 typedef struct std_info STD;
 
-STD Info_array[1];
+STD Info_array[2];
 char chosen_sub[4][7];
 int totalcred=0;
 int a = 0;
